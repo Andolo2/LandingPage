@@ -137,7 +137,7 @@ img{
 .card {
     max-width: 150px;
     color: #1f293700;
-    transition:ease-in .7s;
+    
     
 }
 .card:hover {
@@ -149,7 +149,7 @@ img{
     height:144px;
     background-image: linear-gradient(0deg, #795949, rgba(0, 0, 0, 0));
     border-radius: 20px;
-    transition: ease 0.1s;
+    
     align-items: center;
     
     
